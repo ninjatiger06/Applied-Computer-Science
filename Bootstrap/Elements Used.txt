@@ -1,0 +1,5 @@
+1) Jumbotron
+2) Carousel
+3) Badges
+4) Email Form
+5) Searchbar (ish)

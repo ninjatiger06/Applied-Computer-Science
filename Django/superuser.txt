@@ -1,0 +1,9 @@
+Username (leave blank to use 'jpfef'): admin
+Email address: jonas.pfefferman.24@bishops.com
+Password: django2022
+Password (again): django2022
+Superuser created successfully.
+
+Twit:
+username: TBSDrJ
+password: TBSRobotics
